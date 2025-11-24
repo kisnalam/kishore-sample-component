@@ -7,5 +7,5 @@ metadata:
     github.com/project-slug: kisnalam/kishore-sample-component
 spec:
   type: service
-  owner: user:guest
   lifecycle: experimental
+  dependsOn: ['component:example-website']
