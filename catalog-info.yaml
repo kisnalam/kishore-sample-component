@@ -1,0 +1,10 @@
+kind: Component
+metadata:
+  name: k-sample-service
+  description: demo sample service
+  annotations:
+    github.com/project-slug: kisnalam/kishore-sample-component
+spec:
+  type: service
+  owner: user:guest
+  lifecycle: experimental
